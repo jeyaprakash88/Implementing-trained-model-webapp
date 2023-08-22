@@ -44,7 +44,7 @@ streamlit run app1.py
 ```
 
 ## Screenshot
-![Predict page Screenshot](/demo.jpg?raw=true "Login Form")
+![Predict page Screenshot](/demo.JPG?raw=true "Login Form")
 
 ## Usage
 
