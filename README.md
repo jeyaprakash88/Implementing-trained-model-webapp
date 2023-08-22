@@ -73,6 +73,6 @@ Feel free to fork the repository, create a feature branch, and open a Pull Reque
 
 ## License
 
-This project is licensed under the MIT License, offering you the freedom to adapt and modify it to suit your unique needs. Click here to view the full license.
+This project is licensed under the [MIT License](LICENSE), offering you the freedom to adapt and modify it to suit your unique needs. [Click here](LICENSE) to view the full license.
 
 Explore, adapt, and utilize this project as a launchpad for crafting your own interactive Streamlit dashboards. Here's to illuminating data exploration!
