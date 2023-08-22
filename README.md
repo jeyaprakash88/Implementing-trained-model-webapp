@@ -43,6 +43,9 @@ pip install -r requirements.txt
 streamlit run app1.py
 ```
 
+## Screenshot
+![Predict page Screenshot](/demo.jpg?raw=true "Login Form")
+
 ## Usage
 
 ### Predictions
